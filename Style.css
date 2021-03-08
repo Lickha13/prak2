@@ -59,9 +59,6 @@ body {
 	margin-bottom: 20px;
 	font-size: 14px;
 }
-.content table {
-	text-align: center;
-}
 .content thead {
 	text-align: center;
 	color: #ffffff;
@@ -70,14 +67,4 @@ body {
 .content tbody {
 	text-align: center;
 	background-color:#f9e5fc; 
-}
-.contact tbody {
-	padding-top: 2cm;
-	padding-right: 2cm;
-	padding-bottom: 2cm;
-	padding-left: 4.5cm;
-	background-color: #5b4697;
-}
-.contact .tbody td {
-	text-align: center;
 }
