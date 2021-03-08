@@ -1,0 +1,82 @@
+/* Style */
+body {
+	font: 16px/28px arial, sans-serif;
+	background-color: #f2cdf7;
+	color: #ffffff;
+}
+.container {
+	width: 800px;
+	margin: auto;
+}
+.header {
+	padding: 10px;
+	background-color: #cd57df
+}
+.header .judul {
+	font-size: 40px;
+	font-weight: bold;
+}
+.header ul li {
+	display: inline-block;
+	margin-top: 20px;
+	margin-right: 5px;
+}
+.header a {
+	color: #51035d;
+	text-decoration: none;
+	padding: 3px;
+}
+.header a:hover {
+	background-color: #8165d3;
+	color: #ffffff;
+}
+.hero {
+	height: 280px;
+	background-image: url(hahaha.jpg);
+	background-size: cover;
+	background-position: 0 -300px;
+	border-top: 5px solid #ffffff;
+	border-bottom: 5px solid #8165d3;
+}
+.content {
+	padding: 20px;
+	color: #51035d;
+}
+.content h2 {
+	font-size: 28px;
+	font-weight: bold;
+}
+.content .penulis {
+	font-size: 11px;
+	margin-top: -5px
+}
+.content .penulis a {
+	color: #8165d3;
+	text-decoration: none;
+}
+.content p {
+	margin-bottom: 20px;
+	font-size: 14px;
+}
+.content table {
+	text-align: center;
+}
+.content thead {
+	text-align: center;
+	color: #ffffff;
+	background-color: #8165d3;
+}
+.content tbody {
+	text-align: center;
+	background-color:#f9e5fc; 
+}
+.contact tbody {
+	padding-top: 2cm;
+	padding-right: 2cm;
+	padding-bottom: 2cm;
+	padding-left: 4.5cm;
+	background-color: #5b4697;
+}
+.contact .tbody td {
+	text-align: center;
+}
